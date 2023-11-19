@@ -50,8 +50,6 @@ public class vitalSigns {
     @Override
     public String toString() {
         return date ;
-    }
-        
-        
+    }    
     
 }
